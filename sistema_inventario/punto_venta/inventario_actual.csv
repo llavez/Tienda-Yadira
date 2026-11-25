@@ -1,0 +1,293 @@
+id_producto,nombre,categoria,precio_compra,precio_venta,existencia_actual,unidades_vendidas,dias_periodo,dias_desde_ultima_venta,etiqueta,origen
+SIM001,Coca-Cola 600 ml,Bebidas,14.0,17.8,286,1071,90,26,Normal,SIMULADO
+SIM002,Coca-Cola 2.5 L,Bebidas,34.0,49.5,338,83,90,67,Exceso de inventario,SIMULADO
+SIM003,Sprite 600 ml,Bebidas,13.0,18.03,31,357,90,67,Baja rotación,SIMULADO
+SIM004,Agua Ciel 1 L,Bebidas,9.0,12.13,8,79,90,80,Baja rotación,SIMULADO
+SIM005,Jugo Del Valle Durazno 1 L,Bebidas,22.0,29.52,298,4,90,28,Exceso de inventario,SIMULADO
+SIM006,Cerveza Corona 355 ml,Bebidas,17.0,25.78,2,7,90,48,Baja rotación,SIMULADO
+SIM007,Gatorade Naranja 600 ml,Bebidas,19.0,29.68,53,94,90,50,Baja rotación,SIMULADO
+SIM008,Té Lipton Limón 1 L,Bebidas,21.0,26.69,132,330,90,30,Normal,SIMULADO
+SIM009,Sabritas Original 45 g,Botanas,11.0,16.07,232,370,90,69,Baja rotación,SIMULADO
+SIM010,Sabritas Adobadas 45 g,Botanas,11.0,14.51,13,29,90,44,Baja rotación,SIMULADO
+SIM011,Doritos Nacho 62 g,Botanas,13.5,21.42,207,3,90,17,Exceso de inventario,SIMULADO
+SIM012,Ruffles Queso 47 g,Botanas,11.5,18.03,52,88,90,37,Baja rotación,SIMULADO
+SIM013,Cacahuates Japoneses Kreelo 120 g,Botanas,15.0,21.82,16,30,90,32,Baja rotación,SIMULADO
+SIM014,Galletas Emperador Chocolate 100 g,Botanas,12.0,18.01,2,25,90,79,Baja rotación,SIMULADO
+SIM015,Galletas Marías Gamesa 170 g,Botanas,14.0,19.68,53,92,90,31,Baja rotación,SIMULADO
+SIM016,Chocolate Carlos V 40 g,Botanas,8.0,12.24,179,107,90,82,Exceso de inventario,SIMULADO
+SIM017,Maseca Harina de Maíz 1 kg,Abarrotes,17.0,23.45,13,96,90,60,Baja rotación,SIMULADO
+SIM018,Arroz Sós Grano Largo 1 kg,Abarrotes,24.0,32.05,0,4,90,40,Normal,SIMULADO
+SIM019,Frijol Negro Verde Valle 900 g,Abarrotes,28.0,36.71,143,22,90,19,Exceso de inventario,SIMULADO
+SIM020,Azúcar Estándar Zulka 1 kg,Abarrotes,26.0,33.55,128,394,90,84,Baja rotación,SIMULADO
+SIM021,Aceite Nutrioli 900 ml,Abarrotes,42.0,59.23,9,99,90,55,Baja rotación,SIMULADO
+SIM022,Sal Refinada La Fina 1 kg,Abarrotes,9.0,12.35,404,360,90,78,Exceso de inventario,SIMULADO
+SIM023,Atún Dolores en Agua 140 g,Abarrotes,15.0,21.98,56,390,90,67,Baja rotación,SIMULADO
+SIM024,Sardina Calmex en Tomate 155 g,Abarrotes,18.0,21.69,2,27,90,40,Baja rotación,SIMULADO
+SIM025,Salsa Valentina 370 ml,Abarrotes,16.0,22.07,11,91,90,20,Exceso de inventario,SIMULADO
+SIM026,Mayonesa Helmans 390 g,Abarrotes,34.0,45.77,10,83,90,42,Baja rotación,SIMULADO
+SIM027,Pasta Barilla Spaghetti 500 g,Abarrotes,23.0,29.4,3,7,90,32,Baja rotación,SIMULADO
+SIM028,Sopa Maruchan Camarón 64 g,Abarrotes,10.0,14.38,2,3,90,33,Normal,SIMULADO
+SIM029,Mole Doña María 160 g,Abarrotes,29.0,39.85,160,346,90,3,Normal,SIMULADO
+SIM030,Café Nescafé Clásico 100 g,Abarrotes,78.0,102.96,518,376,90,49,Exceso de inventario,SIMULADO
+SIM031,Leche Lala Entera 1 L,Lácteos,21.0,26.96,36,91,90,48,Baja rotación,SIMULADO
+SIM032,Leche Alpura Deslactosada 1 L,Lácteos,23.0,35.65,225,382,90,4,Normal,SIMULADO
+SIM033,Yoghurt Danone Fresa 125 g,Lácteos,9.5,14.43,41,93,90,45,Baja rotación,SIMULADO
+SIM034,Queso Oaxaca Lala 400 g,Lácteos,62.0,89.45,118,327,90,36,Baja rotación,SIMULADO
+SIM035,Crema Lala para Batir 250 ml,Lácteos,25.0,33.45,13,32,90,61,Baja rotación,SIMULADO
+SIM036,Mantequilla Gloria 90 g,Lácteos,19.0,30.0,318,97,90,83,Exceso de inventario,SIMULADO
+SIM037,Huevo Blanco San Juan 18 pzas,Lácteos,58.0,82.67,62,375,90,48,Baja rotación,SIMULADO
+SIM038,Pan Bimbo Blanco Grande,Panadería,42.0,57.67,32,373,90,80,Baja rotación,SIMULADO
+SIM039,Pan Bimbo Integral,Panadería,46.0,71.77,17,25,90,77,Baja rotación,SIMULADO
+SIM040,Tortillas de Harina Mission 10 pzas,Panadería,35.0,46.47,101,403,90,14,Normal,SIMULADO
+SIM041,Bolillo Pieza,Panadería,3.5,5.17,184,84,90,76,Exceso de inventario,SIMULADO
+SIM042,Marinela Gansito 2 pzas,Panadería,14.0,18.56,398,354,90,15,Exceso de inventario,SIMULADO
+SIM043,Pastel Bimbo Chocolate,Panadería,39.0,50.88,35,361,90,10,Normal,SIMULADO
+SIM044,Detergente Ariel Polvo 1 kg,Limpieza,58.0,85.86,36,99,90,16,Normal,SIMULADO
+SIM045,Cloro Cloralex 1 L,Limpieza,17.0,21.95,39,372,90,53,Exceso de inventario,SIMULADO
+SIM046,Suavitel Fresh 850 ml,Limpieza,39.0,54.49,45,102,90,4,Baja rotación,SIMULADO
+SIM047,Jabón Zote Rosa 400 g,Limpieza,13.0,18.62,319,1106,90,61,Baja rotación,SIMULADO
+SIM048,Fabuloso Lavanda 1 L,Limpieza,27.0,34.44,588,1090,90,57,Baja rotación,SIMULADO
+SIM049,Pinol Original 828 ml,Limpieza,36.0,53.73,128,1082,90,41,Baja rotación,SIMULADO
+SIM050,Estropajo Scotch-Brite Pieza,Limpieza,12.0,17.03,296,1092,90,2,Normal,SIMULADO
+SIM051,Papel Higiénico Kleenex 4 rollos,Higiene,36.0,52.15,1,5,90,24,Baja rotación,SIMULADO
+SIM052,Papel Higiénico Regio 12 rollos,Higiene,84.0,113.3,57,100,90,50,Baja rotación,SIMULADO
+SIM053,Servilletas Kleenex 100 pzas,Higiene,22.0,30.1,80,373,90,13,Normal,SIMULADO
+SIM054,Shampoo Head & Shoulders 400 ml,Higiene,69.0,96.46,37,93,90,54,Baja rotación,SIMULADO
+SIM055,Shampoo Sedal Keratina 340 ml,Higiene,49.0,68.01,210,100,90,67,Exceso de inventario,SIMULADO
+SIM056,Pasta Dental Colgate 100 ml,Higiene,32.0,47.05,5,27,90,69,Baja rotación,SIMULADO
+SIM057,Desodorante Rexona Clinical 50 ml,Higiene,41.0,58.67,4,30,90,1,Normal,SIMULADO
+SIM058,Rastrillos Bic 3 pzas,Higiene,27.0,36.9,363,383,90,43,Baja rotación,SIMULADO
+SIM059,Pañales Huggies Etapa 4 (20 pzas),Higiene,189.0,226.94,258,1,90,47,Baja rotación,SIMULADO
+SIM060,Toallas Sanitarias Saba Ultra 10 pzas,Higiene,34.0,51.6,467,377,90,28,Exceso de inventario,SIMULADO
+SIM061,Pollo Entero Bachoco 1 kg,Carnes,74.0,104.17,3,10,90,89,Normal,SIMULADO
+SIM062,Salchicha Fud Viena 250 g,Carnes,29.0,38.59,50,92,90,32,Exceso de inventario,SIMULADO
+SIM063,Jamón Fud Virginia 200 g,Carnes,36.0,50.4,197,7,90,64,Exceso de inventario,SIMULADO
+SIM064,Chorizo Coronado Rojo 250 g,Carnes,48.0,59.39,119,372,90,59,Baja rotación,SIMULADO
+SIM065,Plátano Tabasco kg,Frutas y verduras,19.0,29.68,133,28,90,14,Exceso de inventario,SIMULADO
+SIM066,Manzana Roja kg,Frutas y verduras,38.0,60.64,52,99,90,5,Normal,SIMULADO
+SIM067,Jitomate Saladette kg,Frutas y verduras,26.0,31.81,6,48,90,76,Baja rotación,SIMULADO
+SIM068,Cebolla Blanca kg,Frutas y verduras,21.0,28.21,29,90,90,22,Normal,SIMULADO
+SIM069,Aguacate Hass Pieza,Frutas y verduras,16.0,23.87,72,360,90,59,Baja rotación,SIMULADO
+SIM070,Limón Pieza,Frutas y verduras,1.5,1.99,3,31,90,38,Baja rotación,SIMULADO
+SIM071,Pilas Duracell AA 4 pzas,Varios,54.0,77.05,231,378,90,70,Baja rotación,SIMULADO
+SIM072,Velas Aromáticas Pieza,Varios,15.0,20.5,408,348,90,46,Exceso de inventario,SIMULADO
+SIM073,Bolsas de Plástico Asa Pieza,Varios,0.8,1.21,363,1099,90,24,Normal,SIMULADO
+SIM074,Coca-Cola 600 ml - Edición económica,Bebidas,39.13,61.96,48,87,90,17,Normal,SIMULADO
+SIM075,Coca-Cola 600 ml - Paquete 6 pzas,Bebidas,37.48,58.29,128,356,90,84,Baja rotación,SIMULADO
+SIM076,Coca-Cola 600 ml - Paquete 3 pzas,Bebidas,46.1,66.77,165,7,90,60,Exceso de inventario,SIMULADO
+SIM077,Coca-Cola 2.5 L - Paquete 6 pzas,Bebidas,100.17,126.63,595,1040,90,61,Baja rotación,SIMULADO
+SIM078,Coca-Cola 2.5 L - Presentación familiar,Bebidas,61.73,97.46,2,32,90,51,Baja rotación,SIMULADO
+SIM079,Coca-Cola 2.5 L - Paquete 3 pzas,Bebidas,55.13,66.68,32,109,90,21,Normal,SIMULADO
+SIM080,Sprite 600 ml - Paquete 6 pzas,Bebidas,50.8,67.01,0,3,90,22,Normal,SIMULADO
+SIM081,Sprite 600 ml - Presentación chica,Bebidas,44.05,57.82,105,365,90,31,Baja rotación,SIMULADO
+SIM082,Sprite 600 ml - Edición económica,Bebidas,43.37,63.7,25,94,90,84,Baja rotación,SIMULADO
+SIM083,Agua Ciel 1 L - Edición económica,Bebidas,29.87,41.67,587,1063,90,15,Normal,SIMULADO
+SIM084,Agua Ciel 1 L - Presentación familiar,Bebidas,34.04,42.11,1,3,90,41,Exceso de inventario,SIMULADO
+SIM085,Agua Ciel 1 L - Paquete 3 pzas,Bebidas,15.29,18.43,149,322,90,0,Normal,SIMULADO
+SIM086,Jugo Del Valle Durazno 1 L - Paquete 3 pzas,Bebidas,54.15,78.07,31,93,90,10,Normal,SIMULADO
+SIM087,Jugo Del Valle Durazno 1 L - Presentación familiar,Bebidas,42.33,59.12,15,26,90,6,Normal,SIMULADO
+SIM088,Jugo Del Valle Durazno 1 L - Edición económica,Bebidas,69.36,99.92,199,341,90,67,Baja rotación,SIMULADO
+SIM089,Cerveza Corona 355 ml - Presentación chica,Bebidas,56.86,81.06,0,4,90,13,Normal,SIMULADO
+SIM090,Cerveza Corona 355 ml - Edición económica,Bebidas,34.72,54.03,49,88,90,17,Normal,SIMULADO
+SIM091,Cerveza Corona 355 ml - Presentación familiar,Bebidas,56.73,88.92,13,86,90,78,Baja rotación,SIMULADO
+SIM092,Gatorade Naranja 600 ml - Paquete 3 pzas,Bebidas,46.7,59.56,2,6,90,64,Baja rotación,SIMULADO
+SIM093,Gatorade Naranja 600 ml - Presentación chica,Bebidas,59.64,94.04,161,92,90,54,Exceso de inventario,SIMULADO
+SIM094,Gatorade Naranja 600 ml - Paquete 6 pzas,Bebidas,58.73,88.98,3,20,90,81,Baja rotación,SIMULADO
+SIM095,Té Lipton Limón 1 L - Edición económica,Bebidas,48.9,71.18,17,21,90,39,Baja rotación,SIMULADO
+SIM096,Té Lipton Limón 1 L - Paquete 3 pzas,Bebidas,44.7,65.43,628,1085,90,50,Baja rotación,SIMULADO
+SIM097,Té Lipton Limón 1 L - Presentación chica,Bebidas,70.75,100.35,30,93,90,46,Baja rotación,SIMULADO
+SIM098,Sabritas Original 45 g - Paquete 6 pzas,Botanas,35.87,56.2,5,19,90,78,Baja rotación,SIMULADO
+SIM099,Sabritas Original 45 g - Paquete 3 pzas,Botanas,26.94,34.84,69,361,90,84,Baja rotación,SIMULADO
+SIM100,Sabritas Original 45 g - Edición económica,Botanas,35.92,51.71,21,98,90,26,Normal,SIMULADO
+SIM101,Sabritas Adobadas 45 g - Paquete 3 pzas,Botanas,32.8,50.04,151,89,90,35,Exceso de inventario,SIMULADO
+SIM102,Sabritas Adobadas 45 g - Presentación familiar,Botanas,25.13,31.51,9,95,90,57,Baja rotación,SIMULADO
+SIM103,Sabritas Adobadas 45 g - Edición económica,Botanas,35.28,51.02,23,98,90,36,Baja rotación,SIMULADO
+SIM104,Doritos Nacho 62 g - Paquete 3 pzas,Botanas,45.42,61.82,31,344,90,15,Normal,SIMULADO
+SIM105,Doritos Nacho 62 g - Presentación familiar,Botanas,26.92,40.55,2,25,90,15,Normal,SIMULADO
+SIM106,Doritos Nacho 62 g - Edición económica,Botanas,26.65,32.7,211,363,90,7,Normal,SIMULADO
+SIM107,Ruffles Queso 47 g - Presentación familiar,Botanas,21.27,30.69,42,93,90,13,Normal,SIMULADO
+SIM108,Ruffles Queso 47 g - Edición económica,Botanas,42.0,64.8,47,102,90,70,Baja rotación,SIMULADO
+SIM109,Ruffles Queso 47 g - Paquete 6 pzas,Botanas,34.09,49.48,13,30,90,2,Normal,SIMULADO
+SIM110,Cacahuates Japoneses Kreelo 120 g - Paquete 6 pzas,Botanas,50.97,67.72,7,31,90,63,Baja rotación,SIMULADO
+SIM111,Cacahuates Japoneses Kreelo 120 g - Presentación familiar,Botanas,35.4,51.77,42,113,90,49,Baja rotación,SIMULADO
+SIM112,Cacahuates Japoneses Kreelo 120 g - Edición económica,Botanas,24.88,33.22,3,3,90,83,Baja rotación,SIMULADO
+SIM113,Galletas Emperador Chocolate 100 g - Paquete 6 pzas,Botanas,33.45,49.09,3,4,90,51,Baja rotación,SIMULADO
+SIM114,Galletas Emperador Chocolate 100 g - Presentación chica,Botanas,39.02,48.83,110,377,90,82,Baja rotación,SIMULADO
+SIM115,Galletas Emperador Chocolate 100 g - Edición económica,Botanas,36.18,47.47,16,26,90,47,Baja rotación,SIMULADO
+SIM116,Galletas Marías Gamesa 170 g - Paquete 6 pzas,Botanas,45.28,54.93,436,338,90,78,Exceso de inventario,SIMULADO
+SIM117,Galletas Marías Gamesa 170 g - Presentación chica,Botanas,44.19,54.51,1,8,90,66,Baja rotación,SIMULADO
+SIM118,Galletas Marías Gamesa 170 g - Presentación familiar,Botanas,22.82,32.45,144,351,90,55,Baja rotación,SIMULADO
+SIM119,Chocolate Carlos V 40 g - Presentación familiar,Botanas,31.21,40.34,6,26,90,13,Normal,SIMULADO
+SIM120,Chocolate Carlos V 40 g - Paquete 3 pzas,Botanas,15.65,22.01,66,371,90,50,Baja rotación,SIMULADO
+SIM121,Chocolate Carlos V 40 g - Presentación chica,Botanas,22.78,33.35,617,1133,90,51,Baja rotación,SIMULADO
+SIM122,Maseca Harina de Maíz 1 kg - Presentación familiar,Abarrotes,59.73,92.73,158,372,90,22,Normal,SIMULADO
+SIM123,Maseca Harina de Maíz 1 kg - Presentación chica,Abarrotes,37.62,50.49,6,97,90,85,Baja rotación,SIMULADO
+SIM124,Maseca Harina de Maíz 1 kg - Paquete 6 pzas,Abarrotes,50.94,67.62,1,4,90,16,Exceso de inventario,SIMULADO
+SIM125,Arroz Sós Grano Largo 1 kg - Edición económica,Abarrotes,93.41,123.81,237,352,90,54,Baja rotación,SIMULADO
+SIM126,Arroz Sós Grano Largo 1 kg - Presentación chica,Abarrotes,72.14,89.97,269,112,90,40,Exceso de inventario,SIMULADO
+SIM127,Arroz Sós Grano Largo 1 kg - Presentación familiar,Abarrotes,77.51,113.57,2,3,90,69,Baja rotación,SIMULADO
+SIM128,Frijol Negro Verde Valle 900 g - Presentación chica,Abarrotes,69.94,106.86,17,88,90,54,Baja rotación,SIMULADO
+SIM129,Frijol Negro Verde Valle 900 g - Paquete 6 pzas,Abarrotes,59.43,82.56,2,6,90,45,Baja rotación,SIMULADO
+SIM130,Frijol Negro Verde Valle 900 g - Paquete 3 pzas,Abarrotes,84.18,119.81,51,96,90,36,Baja rotación,SIMULADO
+SIM131,Azúcar Estándar Zulka 1 kg - Edición económica,Abarrotes,55.66,88.13,56,86,90,9,Normal,SIMULADO
+SIM132,Azúcar Estándar Zulka 1 kg - Presentación familiar,Abarrotes,94.72,140.14,59,377,90,87,Baja rotación,SIMULADO
+SIM133,Azúcar Estándar Zulka 1 kg - Paquete 3 pzas,Abarrotes,43.01,64.43,5,25,90,88,Baja rotación,SIMULADO
+SIM134,Aceite Nutrioli 900 ml - Edición económica,Abarrotes,119.27,185.56,6,24,90,74,Baja rotación,SIMULADO
+SIM135,Aceite Nutrioli 900 ml - Presentación familiar,Abarrotes,76.18,97.99,165,29,90,31,Exceso de inventario,SIMULADO
+SIM136,Aceite Nutrioli 900 ml - Paquete 3 pzas,Abarrotes,148.38,216.64,1,4,90,56,Baja rotación,SIMULADO
+SIM137,Sal Refinada La Fina 1 kg - Presentación chica,Abarrotes,18.84,28.01,524,1152,90,15,Normal,SIMULADO
+SIM138,Sal Refinada La Fina 1 kg - Paquete 3 pzas,Abarrotes,21.19,32.57,124,349,90,36,Baja rotación,SIMULADO
+SIM139,Sal Refinada La Fina 1 kg - Edición económica,Abarrotes,32.23,43.11,246,99,90,51,Exceso de inventario,SIMULADO
+SIM140,Atún Dolores en Agua 140 g - Paquete 6 pzas,Abarrotes,57.85,85.36,1,4,90,5,Baja rotación,SIMULADO
+SIM141,Atún Dolores en Agua 140 g - Paquete 3 pzas,Abarrotes,28.58,41.21,1,5,90,10,Baja rotación,SIMULADO
+SIM142,Atún Dolores en Agua 140 g - Edición económica,Abarrotes,26.53,36.18,570,1042,90,80,Baja rotación,SIMULADO
+SIM143,Sardina Calmex en Tomate 155 g - Presentación chica,Abarrotes,34.4,42.68,186,0,90,90,Normal,SIMULADO
+SIM144,Sardina Calmex en Tomate 155 g - Paquete 6 pzas,Abarrotes,70.31,94.3,1,6,90,69,Baja rotación,SIMULADO
+SIM145,Sardina Calmex en Tomate 155 g - Paquete 3 pzas,Abarrotes,67.87,107.6,160,402,90,49,Baja rotación,SIMULADO
+SIM146,Salsa Valentina 370 ml - Presentación familiar,Abarrotes,61.67,79.35,219,33,90,30,Exceso de inventario,SIMULADO
+SIM147,Salsa Valentina 370 ml - Edición económica,Abarrotes,26.68,33.23,44,91,90,0,Normal,SIMULADO
+SIM148,Salsa Valentina 370 ml - Paquete 6 pzas,Abarrotes,53.51,72.08,15,81,90,14,Exceso de inventario,SIMULADO
+SIM149,Mayonesa Helmans 390 g - Presentación familiar,Abarrotes,134.37,166.67,159,371,90,79,Baja rotación,SIMULADO
+SIM150,Mayonesa Helmans 390 g - Edición económica,Abarrotes,79.96,104.5,24,93,90,69,Baja rotación,SIMULADO
+SIM151,Mayonesa Helmans 390 g - Paquete 3 pzas,Abarrotes,64.72,101.34,37,369,90,21,Exceso de inventario,SIMULADO
+SIM152,Pasta Barilla Spaghetti 500 g - Presentación familiar,Abarrotes,89.83,119.25,43,99,90,47,Baja rotación,SIMULADO
+SIM153,Pasta Barilla Spaghetti 500 g - Edición económica,Abarrotes,85.2,122.21,2,21,90,51,Baja rotación,SIMULADO
+SIM154,Pasta Barilla Spaghetti 500 g - Paquete 3 pzas,Abarrotes,50.06,64.85,14,28,90,61,Baja rotación,SIMULADO
+SIM155,Sopa Maruchan Camarón 64 g - Paquete 6 pzas,Abarrotes,39.73,58.29,348,375,90,60,Baja rotación,SIMULADO
+SIM156,Sopa Maruchan Camarón 64 g - Presentación chica,Abarrotes,20.91,26.16,5,26,90,57,Baja rotación,SIMULADO
+SIM157,Sopa Maruchan Camarón 64 g - Presentación familiar,Abarrotes,28.4,43.05,32,104,90,36,Baja rotación,SIMULADO
+SIM158,Mole Doña María 160 g - Edición económica,Abarrotes,63.1,86.4,45,86,90,57,Baja rotación,SIMULADO
+SIM159,Mole Doña María 160 g - Paquete 6 pzas,Abarrotes,52.51,66.87,259,1088,90,81,Baja rotación,SIMULADO
+SIM160,Mole Doña María 160 g - Presentación chica,Abarrotes,92.79,139.49,2,4,90,11,Baja rotación,SIMULADO
+SIM161,Café Nescafé Clásico 100 g - Paquete 3 pzas,Abarrotes,267.85,380.81,2,30,90,70,Baja rotación,SIMULADO
+SIM162,Café Nescafé Clásico 100 g - Presentación familiar,Abarrotes,273.82,376.57,91,370,90,37,Baja rotación,SIMULADO
+SIM163,Café Nescafé Clásico 100 g - Presentación chica,Abarrotes,188.44,244.27,6,25,90,59,Baja rotación,SIMULADO
+SIM164,Leche Lala Entera 1 L - Paquete 6 pzas,Lácteos,80.38,121.58,142,2,90,43,Exceso de inventario,SIMULADO
+SIM165,Leche Lala Entera 1 L - Paquete 3 pzas,Lácteos,58.5,78.75,157,382,90,52,Baja rotación,SIMULADO
+SIM166,Leche Lala Entera 1 L - Edición económica,Lácteos,53.65,65.3,170,379,90,58,Baja rotación,SIMULADO
+SIM167,Leche Alpura Deslactosada 1 L - Paquete 6 pzas,Lácteos,50.43,79.99,171,19,90,71,Baja rotación,SIMULADO
+SIM168,Leche Alpura Deslactosada 1 L - Edición económica,Lácteos,43.15,52.31,3,0,90,90,Exceso de inventario,SIMULADO
+SIM169,Leche Alpura Deslactosada 1 L - Presentación chica,Lácteos,61.79,77.13,43,342,90,8,Normal,SIMULADO
+SIM170,Yoghurt Danone Fresa 125 g - Paquete 6 pzas,Lácteos,33.87,46.95,40,91,90,4,Normal,SIMULADO
+SIM171,Yoghurt Danone Fresa 125 g - Presentación chica,Lácteos,37.28,47.84,284,1013,90,79,Baja rotación,SIMULADO
+SIM172,Yoghurt Danone Fresa 125 g - Paquete 3 pzas,Lácteos,29.56,39.43,22,85,90,78,Normal,SIMULADO
+SIM173,Queso Oaxaca Lala 400 g - Paquete 3 pzas,Lácteos,118.76,169.47,207,21,90,29,Exceso de inventario,SIMULADO
+SIM174,Queso Oaxaca Lala 400 g - Paquete 6 pzas,Lácteos,226.9,359.21,2,4,90,83,Baja rotación,SIMULADO
+SIM175,Queso Oaxaca Lala 400 g - Presentación familiar,Lácteos,135.78,213.79,29,85,90,4,Normal,SIMULADO
+SIM176,Crema Lala para Batir 250 ml - Presentación familiar,Lácteos,94.02,115.6,305,328,90,75,Exceso de inventario,SIMULADO
+SIM177,Crema Lala para Batir 250 ml - Edición económica,Lácteos,92.11,141.97,2,3,90,32,Baja rotación,SIMULADO
+SIM178,Crema Lala para Batir 250 ml - Paquete 6 pzas,Lácteos,62.68,79.42,53,103,90,23,Normal,SIMULADO
+SIM179,Mantequilla Gloria 90 g - Presentación familiar,Lácteos,67.03,102.19,42,94,90,30,Normal,SIMULADO
+SIM180,Mantequilla Gloria 90 g - Presentación chica,Lácteos,37.78,49.81,373,336,90,71,Exceso de inventario,SIMULADO
+SIM181,Mantequilla Gloria 90 g - Paquete 3 pzas,Lácteos,48.64,72.33,3,22,90,89,Baja rotación,SIMULADO
+SIM182,Huevo Blanco San Juan 18 pzas - Presentación familiar,Lácteos,100.59,149.63,90,386,90,17,Normal,SIMULADO
+SIM183,Huevo Blanco San Juan 18 pzas - Edición económica,Lácteos,177.81,273.87,251,30,90,25,Exceso de inventario,SIMULADO
+SIM184,Huevo Blanco San Juan 18 pzas - Paquete 6 pzas,Lácteos,112.57,179.19,192,351,90,20,Normal,SIMULADO
+SIM185,Pan Bimbo Blanco Grande - Presentación chica,Panadería,97.56,127.82,42,356,90,30,Exceso de inventario,SIMULADO
+SIM186,Pan Bimbo Blanco Grande - Edición económica,Panadería,117.8,170.97,66,371,90,24,Normal,SIMULADO
+SIM187,Pan Bimbo Blanco Grande - Presentación familiar,Panadería,138.48,207.13,17,22,90,74,Baja rotación,SIMULADO
+SIM188,Pan Bimbo Integral - Paquete 6 pzas,Panadería,149.63,184.32,250,329,90,78,Baja rotación,SIMULADO
+SIM189,Pan Bimbo Integral - Paquete 3 pzas,Panadería,149.08,218.43,14,36,90,72,Baja rotación,SIMULADO
+SIM190,Pan Bimbo Integral - Edición económica,Panadería,81.81,108.69,28,90,90,82,Baja rotación,SIMULADO
+SIM191,Tortillas de Harina Mission 10 pzas - Paquete 3 pzas,Panadería,85.21,107.76,16,38,90,41,Baja rotación,SIMULADO
+SIM192,Tortillas de Harina Mission 10 pzas - Presentación familiar,Panadería,126.02,178.92,9,95,90,71,Baja rotación,SIMULADO
+SIM193,Tortillas de Harina Mission 10 pzas - Presentación chica,Panadería,121.13,167.74,2,4,90,78,Baja rotación,SIMULADO
+SIM194,Bolillo Pieza - Paquete 3 pzas,Panadería,10.63,15.21,687,1104,90,40,Baja rotación,SIMULADO
+SIM195,Bolillo Pieza - Presentación familiar,Panadería,6.53,9.51,269,6,90,1,Exceso de inventario,SIMULADO
+SIM196,Bolillo Pieza - Edición económica,Panadería,8.89,12.44,25,73,90,74,Baja rotación,SIMULADO
+SIM197,Marinela Gansito 2 pzas - Paquete 3 pzas,Panadería,38.86,60.7,233,365,90,65,Baja rotación,SIMULADO
+SIM198,Marinela Gansito 2 pzas - Edición económica,Panadería,54.02,68.67,2,3,90,79,Baja rotación,SIMULADO
+SIM199,Marinela Gansito 2 pzas - Presentación chica,Panadería,55.03,72.39,42,109,90,7,Normal,SIMULADO
+SIM200,Pastel Bimbo Chocolate - Presentación chica,Panadería,121.13,162.62,20,109,90,87,Baja rotación,SIMULADO
+SIM201,Pastel Bimbo Chocolate - Edición económica,Panadería,122.97,185.65,286,366,90,15,Normal,SIMULADO
+SIM202,Pastel Bimbo Chocolate - Paquete 6 pzas,Panadería,117.14,171.12,219,367,90,61,Baja rotación,SIMULADO
+SIM203,Detergente Ariel Polvo 1 kg - Paquete 6 pzas,Limpieza,113.49,145.56,442,354,90,86,Exceso de inventario,SIMULADO
+SIM204,Detergente Ariel Polvo 1 kg - Presentación chica,Limpieza,144.57,216.53,104,343,90,82,Baja rotación,SIMULADO
+SIM205,Detergente Ariel Polvo 1 kg - Edición económica,Limpieza,169.57,255.82,59,91,90,88,Baja rotación,SIMULADO
+SIM206,Cloro Cloralex 1 L - Presentación chica,Limpieza,27.56,41.56,133,24,90,84,Exceso de inventario,SIMULADO
+SIM207,Cloro Cloralex 1 L - Paquete 3 pzas,Limpieza,64.48,79.4,1,8,90,57,Baja rotación,SIMULADO
+SIM208,Cloro Cloralex 1 L - Presentación familiar,Limpieza,46.74,60.05,17,25,90,60,Baja rotación,SIMULADO
+SIM209,Suavitel Fresh 850 ml - Edición económica,Limpieza,72.38,112.78,307,371,90,40,Baja rotación,SIMULADO
+SIM210,Suavitel Fresh 850 ml - Paquete 3 pzas,Limpieza,98.14,152.29,3,25,90,37,Baja rotación,SIMULADO
+SIM211,Suavitel Fresh 850 ml - Paquete 6 pzas,Limpieza,129.47,166.01,143,332,90,78,Baja rotación,SIMULADO
+SIM212,Jabón Zote Rosa 400 g - Presentación familiar,Limpieza,46.75,66.41,18,26,90,36,Baja rotación,SIMULADO
+SIM213,Jabón Zote Rosa 400 g - Paquete 6 pzas,Limpieza,25.45,33.21,3,4,90,37,Baja rotación,SIMULADO
+SIM214,Jabón Zote Rosa 400 g - Edición económica,Limpieza,28.13,38.44,260,31,90,21,Exceso de inventario,SIMULADO
+SIM215,Fabuloso Lavanda 1 L - Edición económica,Limpieza,78.44,94.79,19,72,90,49,Baja rotación,SIMULADO
+SIM216,Fabuloso Lavanda 1 L - Presentación chica,Limpieza,72.45,95.11,1,2,90,84,Baja rotación,SIMULADO
+SIM217,Fabuloso Lavanda 1 L - Paquete 3 pzas,Limpieza,84.43,110.46,17,103,90,9,Normal,SIMULADO
+SIM218,Pinol Original 828 ml - Paquete 3 pzas,Limpieza,109.49,171.64,63,350,90,57,Baja rotación,SIMULADO
+SIM219,Pinol Original 828 ml - Edición económica,Limpieza,141.65,203.29,270,98,90,46,Exceso de inventario,SIMULADO
+SIM220,Pinol Original 828 ml - Presentación chica,Limpieza,119.69,152.13,48,90,90,64,Baja rotación,SIMULADO
+SIM221,Estropajo Scotch-Brite Pieza - Paquete 3 pzas,Limpieza,28.8,39.49,408,1102,90,12,Normal,SIMULADO
+SIM222,Estropajo Scotch-Brite Pieza - Presentación familiar,Limpieza,21.17,29.58,232,31,90,7,Exceso de inventario,SIMULADO
+SIM223,Estropajo Scotch-Brite Pieza - Edición económica,Limpieza,44.04,64.08,51,92,90,28,Normal,SIMULADO
+SIM224,Papel Higiénico Kleenex 4 rollos - Presentación chica,Higiene,93.56,132.2,348,1045,90,48,Baja rotación,SIMULADO
+SIM225,Papel Higiénico Kleenex 4 rollos - Edición económica,Higiene,61.55,84.22,13,87,90,22,Normal,SIMULADO
+SIM226,Papel Higiénico Kleenex 4 rollos - Presentación familiar,Higiene,85.64,113.41,39,90,90,51,Baja rotación,SIMULADO
+SIM227,Papel Higiénico Regio 12 rollos - Presentación chica,Higiene,264.81,378.68,8,88,90,65,Baja rotación,SIMULADO
+SIM228,Papel Higiénico Regio 12 rollos - Presentación familiar,Higiene,233.29,371.01,0,8,90,1,Normal,SIMULADO
+SIM229,Papel Higiénico Regio 12 rollos - Paquete 3 pzas,Higiene,261.84,372.13,192,374,90,58,Baja rotación,SIMULADO
+SIM230,Servilletas Kleenex 100 pzas - Presentación familiar,Higiene,59.64,92.73,263,1047,90,32,Baja rotación,SIMULADO
+SIM231,Servilletas Kleenex 100 pzas - Paquete 6 pzas,Higiene,48.72,58.76,469,1094,90,75,Baja rotación,SIMULADO
+SIM232,Servilletas Kleenex 100 pzas - Paquete 3 pzas,Higiene,68.65,87.96,30,100,90,84,Baja rotación,SIMULADO
+SIM233,Shampoo Head & Shoulders 400 ml - Paquete 3 pzas,Higiene,242.54,374.94,191,86,90,80,Exceso de inventario,SIMULADO
+SIM234,Shampoo Head & Shoulders 400 ml - Edición económica,Higiene,270.26,385.87,39,362,90,14,Normal,SIMULADO
+SIM235,Shampoo Head & Shoulders 400 ml - Presentación familiar,Higiene,124.94,174.29,710,1098,90,9,Normal,SIMULADO
+SIM236,Shampoo Sedal Keratina 340 ml - Presentación chica,Higiene,147.72,199.06,518,1072,90,72,Baja rotación,SIMULADO
+SIM237,Shampoo Sedal Keratina 340 ml - Paquete 6 pzas,Higiene,147.1,193.89,18,25,90,89,Baja rotación,SIMULADO
+SIM238,Shampoo Sedal Keratina 340 ml - Presentación familiar,Higiene,176.56,259.81,312,1071,90,23,Normal,SIMULADO
+SIM239,Pasta Dental Colgate 100 ml - Presentación chica,Higiene,108.39,145.92,320,350,90,76,Baja rotación,SIMULADO
+SIM240,Pasta Dental Colgate 100 ml - Presentación familiar,Higiene,118.35,162.62,46,326,90,52,Baja rotación,SIMULADO
+SIM241,Pasta Dental Colgate 100 ml - Paquete 3 pzas,Higiene,72.63,109.72,18,26,90,31,Baja rotación,SIMULADO
+SIM242,Desodorante Rexona Clinical 50 ml - Edición económica,Higiene,124.5,196.52,487,1101,90,5,Normal,SIMULADO
+SIM243,Desodorante Rexona Clinical 50 ml - Paquete 6 pzas,Higiene,127.99,204.46,75,348,90,51,Baja rotación,SIMULADO
+SIM244,Desodorante Rexona Clinical 50 ml - Presentación chica,Higiene,158.17,220.48,10,29,90,56,Baja rotación,SIMULADO
+SIM245,Rastrillos Bic 3 pzas - Edición económica,Higiene,99.11,124.41,54,87,90,6,Normal,SIMULADO
+SIM246,Rastrillos Bic 3 pzas - Presentación chica,Higiene,73.96,89.49,2,5,90,33,Baja rotación,SIMULADO
+SIM247,Rastrillos Bic 3 pzas - Paquete 3 pzas,Higiene,96.75,135.24,23,348,90,19,Normal,SIMULADO
+SIM248,Pañales Huggies Etapa 4 (20 pzas) - Edición económica,Higiene,600.53,738.98,23,81,90,9,Normal,SIMULADO
+SIM249,Pañales Huggies Etapa 4 (20 pzas) - Presentación familiar,Higiene,615.46,767.53,40,94,90,28,Normal,SIMULADO
+SIM250,Pañales Huggies Etapa 4 (20 pzas) - Paquete 6 pzas,Higiene,665.37,860.95,125,376,90,8,Normal,SIMULADO
+SIM251,Toallas Sanitarias Saba Ultra 10 pzas - Paquete 6 pzas,Higiene,122.15,195.05,67,406,90,45,Baja rotación,SIMULADO
+SIM252,Toallas Sanitarias Saba Ultra 10 pzas - Paquete 3 pzas,Higiene,121.24,153.36,1,6,90,73,Baja rotación,SIMULADO
+SIM253,Toallas Sanitarias Saba Ultra 10 pzas - Edición económica,Higiene,84.77,105.46,114,369,90,8,Exceso de inventario,SIMULADO
+SIM254,Pollo Entero Bachoco 1 kg - Paquete 3 pzas,Carnes,227.96,357.07,109,80,90,67,Exceso de inventario,SIMULADO
+SIM255,Pollo Entero Bachoco 1 kg - Presentación chica,Carnes,265.7,384.95,12,25,90,89,Baja rotación,SIMULADO
+SIM256,Pollo Entero Bachoco 1 kg - Edición económica,Carnes,144.25,215.79,186,21,90,16,Exceso de inventario,SIMULADO
+SIM257,Salchicha Fud Viena 250 g - Edición económica,Carnes,76.35,102.45,14,108,90,81,Baja rotación,SIMULADO
+SIM258,Salchicha Fud Viena 250 g - Presentación chica,Carnes,109.63,172.51,195,365,90,87,Baja rotación,SIMULADO
+SIM259,Salchicha Fud Viena 250 g - Paquete 6 pzas,Carnes,99.85,158.81,107,393,90,34,Baja rotación,SIMULADO
+SIM260,Jamón Fud Virginia 200 g - Paquete 6 pzas,Carnes,68.01,96.8,108,6,90,5,Exceso de inventario,SIMULADO
+SIM261,Jamón Fud Virginia 200 g - Presentación familiar,Carnes,75.92,121.07,37,83,90,74,Baja rotación,SIMULADO
+SIM262,Jamón Fud Virginia 200 g - Presentación chica,Carnes,66.67,93.49,59,329,90,4,Normal,SIMULADO
+SIM263,Chorizo Coronado Rojo 250 g - Presentación familiar,Carnes,181.83,250.18,22,89,90,45,Baja rotación,SIMULADO
+SIM264,Chorizo Coronado Rojo 250 g - Paquete 3 pzas,Carnes,85.91,130.08,465,361,90,29,Exceso de inventario,SIMULADO
+SIM265,Chorizo Coronado Rojo 250 g - Paquete 6 pzas,Carnes,98.18,143.12,29,78,90,21,Normal,SIMULADO
+SIM266,Plátano Tabasco kg - Presentación familiar,Frutas y verduras,58.52,74.92,17,24,90,41,Baja rotación,SIMULADO
+SIM267,Plátano Tabasco kg - Presentación chica,Frutas y verduras,33.16,46.62,20,83,90,49,Baja rotación,SIMULADO
+SIM268,Plátano Tabasco kg - Edición económica,Frutas y verduras,74.18,89.5,18,82,90,12,Normal,SIMULADO
+SIM269,Manzana Roja kg - Paquete 6 pzas,Frutas y verduras,144.28,223.67,138,377,90,12,Normal,SIMULADO
+SIM270,Manzana Roja kg - Presentación chica,Frutas y verduras,131.37,186.15,50,87,90,86,Baja rotación,SIMULADO
+SIM271,Manzana Roja kg - Paquete 3 pzas,Frutas y verduras,128.19,156.2,282,31,90,57,Exceso de inventario,SIMULADO
+SIM272,Jitomate Saladette kg - Presentación familiar,Frutas y verduras,51.92,81.78,72,364,90,64,Baja rotación,SIMULADO
+SIM273,Jitomate Saladette kg - Edición económica,Frutas y verduras,54.76,87.6,16,102,90,75,Baja rotación,SIMULADO
+SIM274,Jitomate Saladette kg - Presentación chica,Frutas y verduras,77.39,115.69,23,109,90,16,Normal,SIMULADO
+SIM275,Cebolla Blanca kg - Paquete 6 pzas,Frutas y verduras,51.85,71.17,325,1034,90,3,Normal,SIMULADO
+SIM276,Cebolla Blanca kg - Edición económica,Frutas y verduras,60.62,87.08,61,350,90,37,Baja rotación,SIMULADO
+SIM277,Cebolla Blanca kg - Presentación familiar,Frutas y verduras,34.03,40.98,59,375,90,7,Normal,SIMULADO
+SIM278,Aguacate Hass Pieza - Presentación chica,Frutas y verduras,29.08,36.16,550,1092,90,19,Normal,SIMULADO
+SIM279,Aguacate Hass Pieza - Edición económica,Frutas y verduras,58.51,77.96,212,380,90,23,Normal,SIMULADO
+SIM280,Aguacate Hass Pieza - Presentación familiar,Frutas y verduras,59.11,80.66,672,1103,90,12,Normal,SIMULADO
+SIM281,Limón Pieza - Paquete 3 pzas,Frutas y verduras,2.74,4.12,278,84,90,14,Baja rotación,SIMULADO
+SIM282,Limón Pieza - Presentación familiar,Frutas y verduras,4.96,6.29,7,103,90,84,Baja rotación,SIMULADO
+SIM283,Limón Pieza - Presentación chica,Frutas y verduras,2.72,3.39,127,29,90,8,Exceso de inventario,SIMULADO
+SIM284,Pilas Duracell AA 4 pzas - Paquete 6 pzas,Varios,90.8,134.29,4,29,90,23,Normal,SIMULADO
+SIM285,Pilas Duracell AA 4 pzas - Edición económica,Varios,193.55,301.01,28,84,90,67,Baja rotación,SIMULADO
+SIM286,Pilas Duracell AA 4 pzas - Paquete 3 pzas,Varios,155.03,240.59,1,8,90,18,Normal,SIMULADO
+SIM287,Velas Aromáticas Pieza - Presentación chica,Varios,26.91,40.28,2,27,90,21,Normal,SIMULADO
+SIM288,Velas Aromáticas Pieza - Edición económica,Varios,42.94,68.42,219,348,90,28,Normal,SIMULADO
+SIM289,Velas Aromáticas Pieza - Paquete 6 pzas,Varios,26.49,37.32,82,358,90,67,Baja rotación,SIMULADO
+SIM290,Bolsas de Plástico Asa Pieza - Presentación chica,Varios,2.69,4.06,2,2,90,79,Baja rotación,SIMULADO
+SIM291,Bolsas de Plástico Asa Pieza - Presentación familiar,Varios,1.84,2.52,6,26,90,26,Normal,SIMULADO
+SIM292,Bolsas de Plástico Asa Pieza - Paquete 3 pzas,Varios,1.89,2.54,37,80,90,74,Baja rotación,SIMULADO

@@ -1,0 +1,74 @@
+id_producto,nombre,categoria,etiqueta,candidato_descuento,existencia_actual,capital_inmovilizado,precio_venta,descuento_pct,precio_sugerido,motivo
+SIM059,Pañales Huggies Etapa 4 (20 pzas),Higiene,Baja rotación,True,178,33642.0,226.94,8.0,208.78,Descuento limitado por tope o margen mínimo
+SIM061,Pollo Entero Bachoco 1 kg,Carnes,Exceso de inventario,True,431,31894.0,104.17,11.0,92.71,Descuento según rotación o exceso
+SIM020,Azúcar Estándar Zulka 1 kg,Abarrotes,Baja rotación,True,716,18616.0,33.55,10.0,30.19,Descuento según rotación o exceso
+SIM018,Arroz Sós Grano Largo 1 kg,Abarrotes,Baja rotación,True,636,15264.0,32.05,10.0,28.84,Descuento según rotación o exceso
+SIM030,Café Nescafé Clásico 100 g,Abarrotes,Exceso de inventario,True,189,14742.0,102.96,17.0,85.46,Descuento según rotación o exceso
+SIM063,Jamón Fud Virginia 200 g,Carnes,Exceso de inventario,True,364,13104.0,50.4,10.0,45.36,Descuento limitado por tope o margen mínimo
+SIM064,Chorizo Coronado Rojo 250 g,Carnes,Baja rotación,True,219,10512.0,59.39,10.0,53.45,Descuento según rotación o exceso
+SIM051,Papel Higiénico Kleenex 4 rollos,Higiene,Exceso de inventario,True,285,10260.0,52.15,24.0,39.63,Descuento limitado por tope o margen mínimo
+SIM038,Pan Bimbo Blanco Grande,Panadería,Baja rotación,True,241,10122.0,57.67,10.0,51.9,Descuento según rotación o exceso
+SIM034,Queso Oaxaca Lala 400 g,Lácteos,Exceso de inventario,True,152,9424.0,89.45,15.0,76.03,Descuento limitado por tope o margen mínimo
+SIM001,Coca-Cola 600 ml,Bebidas,Baja rotación,True,577,8078.0,17.8,10.0,16.02,Descuento según rotación o exceso
+SIM044,Detergente Ariel Polvo 1 kg,Limpieza,Exceso de inventario,True,134,7772.0,85.86,26.0,63.54,Descuento limitado por tope o margen mínimo
+SIM054,Shampoo Head & Shoulders 400 ml,Higiene,Baja rotación,True,107,7383.0,96.46,10.0,86.81,Descuento según rotación o exceso
+SIM065,Plátano Tabasco kg,Frutas y verduras,Exceso de inventario,True,388,7372.0,29.68,10.0,26.71,Descuento limitado por tope o margen mínimo
+SIM049,Pinol Original 828 ml,Limpieza,Baja rotación,True,203,7308.0,53.73,10.0,48.36,Descuento según rotación o exceso
+SIM005,Jugo Del Valle Durazno 1 L,Bebidas,Baja rotación,True,332,7304.0,29.52,10.0,26.57,Descuento según rotación o exceso
+SIM058,Rastrillos Bic 3 pzas,Higiene,Baja rotación,True,269,7263.0,36.9,10.0,33.21,Descuento según rotación o exceso
+SIM068,Cebolla Blanca kg,Frutas y verduras,Exceso de inventario,True,325,6825.0,28.21,18.0,23.13,Descuento limitado por tope o margen mínimo
+SIM025,Salsa Valentina 370 ml,Abarrotes,Baja rotación,True,381,6096.0,22.07,10.0,19.86,Descuento según rotación o exceso
+SIM040,Tortillas de Harina Mission 10 pzas,Panadería,Baja rotación,True,152,5320.0,46.47,10.0,41.82,Descuento según rotación o exceso
+SIM024,Sardina Calmex en Tomate 155 g,Abarrotes,Exceso de inventario,True,220,3960.0,21.69,9.0,19.74,Descuento limitado por tope o margen mínimo
+SIM013,Cacahuates Japoneses Kreelo 120 g,Botanas,Exceso de inventario,True,230,3450.0,21.82,20.0,17.46,Descuento según rotación o exceso
+SIM010,Sabritas Adobadas 45 g,Botanas,Exceso de inventario,True,279,3069.0,14.51,17.0,12.04,Descuento limitado por tope o margen mínimo
+SIM047,Jabón Zote Rosa 400 g,Limpieza,Exceso de inventario,True,234,3042.0,18.62,20.0,14.9,Descuento según rotación o exceso
+SIM011,Doritos Nacho 62 g,Botanas,Exceso de inventario,True,225,3037.5,21.42,30.0,14.99,Descuento limitado por tope o margen mínimo
+SIM021,Aceite Nutrioli 900 ml,Abarrotes,Normal,False,67,2814.0,59.23,0.0,59.23,No requiere descuento
+SIM014,Galletas Emperador Chocolate 100 g,Botanas,Exceso de inventario,True,188,2256.0,18.01,16.0,15.13,Descuento según rotación o exceso
+SIM048,Fabuloso Lavanda 1 L,Limpieza,Baja rotación,True,82,2214.0,34.44,10.0,31.0,Descuento según rotación o exceso
+SIM028,Sopa Maruchan Camarón 64 g,Abarrotes,Baja rotación,True,216,2160.0,14.38,10.0,12.94,Descuento según rotación o exceso
+SIM006,Cerveza Corona 355 ml,Bebidas,Exceso de inventario,True,116,1972.0,25.78,27.0,18.82,Descuento limitado por tope o margen mínimo
+SIM071,Pilas Duracell AA 4 pzas,Varios,Normal,False,36,1944.0,77.05,0.0,77.05,No requiere descuento
+SIM002,Coca-Cola 2.5 L,Bebidas,Normal,False,53,1802.0,49.5,0.0,49.5,No requiere descuento
+SIM017,Maseca Harina de Maíz 1 kg,Abarrotes,Normal,False,104,1768.0,23.45,0.0,23.45,No requiere descuento
+SIM057,Desodorante Rexona Clinical 50 ml,Higiene,Baja rotación,True,41,1681.0,58.67,10.0,52.8,Descuento según rotación o exceso
+SIM009,Sabritas Original 45 g,Botanas,Normal,False,123,1353.0,16.07,0.0,16.07,No requiere descuento
+SIM055,Shampoo Sedal Keratina 340 ml,Higiene,Normal,False,27,1323.0,68.01,0.0,68.01,No requiere descuento
+SIM060,Toallas Sanitarias Saba Ultra 10 pzas,Higiene,Normal,False,36,1224.0,51.6,0.0,51.6,No requiere descuento
+SIM072,Velas Aromáticas Pieza,Varios,Baja rotación,True,64,960.0,20.5,10.0,18.45,Descuento según rotación o exceso
+SIM031,Leche Lala Entera 1 L,Lácteos,Baja rotación,True,41,861.0,26.96,10.0,24.26,Descuento según rotación o exceso
+SIM039,Pan Bimbo Integral,Panadería,Baja rotación,True,17,782.0,71.77,10.0,64.59,Descuento según rotación o exceso
+SIM035,Crema Lala para Batir 250 ml,Lácteos,Baja rotación,True,31,775.0,33.45,10.0,30.11,Descuento según rotación o exceso
+SIM067,Jitomate Saladette kg,Frutas y verduras,Normal,False,26,676.0,31.81,0.0,31.81,No requiere descuento
+SIM015,Galletas Marías Gamesa 170 g,Botanas,Normal,False,48,672.0,19.68,0.0,19.68,No requiere descuento
+SIM032,Leche Alpura Deslactosada 1 L,Lácteos,Baja rotación,True,27,621.0,35.65,10.0,32.09,Descuento según rotación o exceso
+SIM023,Atún Dolores en Agua 140 g,Abarrotes,Baja rotación,True,41,615.0,21.98,10.0,19.78,Descuento según rotación o exceso
+SIM003,Sprite 600 ml,Bebidas,Normal,False,45,585.0,18.03,0.0,18.03,No requiere descuento
+SIM026,Mayonesa Helmans 390 g,Abarrotes,Baja rotación,True,17,578.0,45.77,10.0,41.19,Descuento según rotación o exceso
+SIM069,Aguacate Hass Pieza,Frutas y verduras,Baja rotación,True,36,576.0,23.87,10.0,21.48,Descuento según rotación o exceso
+SIM036,Mantequilla Gloria 90 g,Lácteos,Baja rotación,True,29,551.0,30.0,10.0,27.0,Descuento según rotación o exceso
+SIM050,Estropajo Scotch-Brite Pieza,Limpieza,Baja rotación,True,39,468.0,17.03,10.0,15.33,Descuento según rotación o exceso
+SIM046,Suavitel Fresh 850 ml,Limpieza,Baja rotación,True,12,468.0,54.49,10.0,49.04,Descuento según rotación o exceso
+SIM016,Chocolate Carlos V 40 g,Botanas,Baja rotación,True,57,456.0,12.24,10.0,11.02,Descuento según rotación o exceso
+SIM045,Cloro Cloralex 1 L,Limpieza,Baja rotación,True,26,442.0,21.95,10.0,19.75,Descuento según rotación o exceso
+SIM052,Papel Higiénico Regio 12 rollos,Higiene,Normal,False,5,420.0,113.3,0.0,113.3,No requiere descuento
+SIM037,Huevo Blanco San Juan 18 pzas,Lácteos,Baja rotación,True,7,406.0,82.67,10.0,74.4,Descuento según rotación o exceso
+SIM066,Manzana Roja kg,Frutas y verduras,Normal,False,8,304.0,60.64,0.0,60.64,No requiere descuento
+SIM027,Pasta Barilla Spaghetti 500 g,Abarrotes,Baja rotación,True,13,299.0,29.4,10.0,26.46,Descuento según rotación o exceso
+SIM056,Pasta Dental Colgate 100 ml,Higiene,Baja rotación,True,8,256.0,47.05,10.0,42.34,Descuento según rotación o exceso
+SIM022,Sal Refinada La Fina 1 kg,Abarrotes,Normal,False,26,234.0,12.35,0.0,12.35,No requiere descuento
+SIM007,Gatorade Naranja 600 ml,Bebidas,Baja rotación,True,12,228.0,29.68,10.0,26.71,Descuento según rotación o exceso
+SIM042,Marinela Gansito 2 pzas,Panadería,Baja rotación,True,14,196.0,18.56,10.0,16.7,Descuento según rotación o exceso
+SIM062,Salchicha Fud Viena 250 g,Carnes,Baja rotación,True,5,145.0,38.59,10.0,34.73,Descuento según rotación o exceso
+SIM008,Té Lipton Limón 1 L,Bebidas,Baja rotación,True,6,126.0,26.69,10.0,24.02,Descuento según rotación o exceso
+SIM019,Frijol Negro Verde Valle 900 g,Abarrotes,Normal,False,3,84.0,36.71,0.0,36.71,No requiere descuento
+SIM043,Pastel Bimbo Chocolate,Panadería,Normal,False,1,39.0,50.88,0.0,50.88,No requiere descuento
+SIM029,Mole Doña María 160 g,Abarrotes,Normal,False,1,29.0,39.85,0.0,39.85,No requiere descuento
+SIM004,Agua Ciel 1 L,Bebidas,Normal,False,3,27.0,12.13,0.0,12.13,No requiere descuento
+SIM012,Ruffles Queso 47 g,Botanas,Baja rotación,True,2,23.0,18.03,10.0,16.23,Descuento según rotación o exceso
+SIM053,Servilletas Kleenex 100 pzas,Higiene,Baja rotación,True,1,22.0,30.1,10.0,27.09,Descuento según rotación o exceso
+SIM033,Yoghurt Danone Fresa 125 g,Lácteos,Baja rotación,True,2,19.0,14.43,10.0,12.99,Descuento según rotación o exceso
+SIM073,Bolsas de Plástico Asa Pieza,Varios,Normal,False,9,7.2,1.21,0.0,1.21,No requiere descuento
+SIM041,Bolillo Pieza,Panadería,Baja rotación,True,1,3.5,5.17,10.0,4.65,Descuento según rotación o exceso
+SIM070,Limón Pieza,Frutas y verduras,Normal,False,0,0.0,1.99,0.0,1.99,No requiere descuento

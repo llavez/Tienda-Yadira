@@ -1,0 +1,74 @@
+id_producto,nombre,categoria,precio_compra,precio_venta,existencia_actual,unidades_vendidas,dias_periodo,dias_desde_ultima_venta,etiqueta,origen
+SIM001,Coca-Cola 600 ml,Bebidas,14.0,17.8,577,1034,90,85,Baja rotación,SIMULADO
+SIM002,Coca-Cola 2.5 L,Bebidas,34.0,49.5,53,331,90,27,Normal,SIMULADO
+SIM003,Sprite 600 ml,Bebidas,13.0,18.03,45,106,90,27,Normal,SIMULADO
+SIM004,Agua Ciel 1 L,Bebidas,9.0,12.13,3,28,90,5,Baja rotación,SIMULADO
+SIM005,Jugo Del Valle Durazno 1 L,Bebidas,22.0,29.52,332,1096,90,68,Baja rotación,SIMULADO
+SIM006,Cerveza Corona 355 ml,Bebidas,17.0,25.78,116,6,90,26,Exceso de inventario,SIMULADO
+SIM007,Gatorade Naranja 600 ml,Bebidas,19.0,29.68,12,32,90,32,Baja rotación,SIMULADO
+SIM008,Té Lipton Limón 1 L,Bebidas,21.0,26.69,6,26,90,34,Baja rotación,SIMULADO
+SIM009,Sabritas Original 45 g,Botanas,11.0,16.07,123,351,90,8,Normal,SIMULADO
+SIM010,Sabritas Adobadas 45 g,Botanas,11.0,14.51,279,73,90,9,Exceso de inventario,SIMULADO
+SIM011,Doritos Nacho 62 g,Botanas,13.5,21.42,225,7,90,52,Exceso de inventario,SIMULADO
+SIM012,Ruffles Queso 47 g,Botanas,11.5,18.03,2,4,90,38,Baja rotación,SIMULADO
+SIM013,Cacahuates Japoneses Kreelo 120 g,Botanas,15.0,21.82,230,79,90,29,Exceso de inventario,SIMULADO
+SIM014,Galletas Emperador Chocolate 100 g,Botanas,12.0,18.01,188,89,90,71,Exceso de inventario,SIMULADO
+SIM015,Galletas Marías Gamesa 170 g,Botanas,14.0,19.68,48,94,90,19,Normal,SIMULADO
+SIM016,Chocolate Carlos V 40 g,Botanas,8.0,12.24,57,105,90,37,Baja rotación,SIMULADO
+SIM017,Maseca Harina de Maíz 1 kg,Abarrotes,17.0,23.45,104,348,90,28,Normal,SIMULADO
+SIM018,Arroz Sós Grano Largo 1 kg,Abarrotes,24.0,32.05,636,1108,90,44,Baja rotación,SIMULADO
+SIM019,Frijol Negro Verde Valle 900 g,Abarrotes,28.0,36.71,3,22,90,11,Normal,SIMULADO
+SIM020,Azúcar Estándar Zulka 1 kg,Abarrotes,26.0,33.55,716,1108,90,89,Baja rotación,SIMULADO
+SIM021,Aceite Nutrioli 900 ml,Abarrotes,42.0,59.23,67,327,90,26,Normal,SIMULADO
+SIM022,Sal Refinada La Fina 1 kg,Abarrotes,9.0,12.35,26,104,90,19,Normal,SIMULADO
+SIM023,Atún Dolores en Agua 140 g,Abarrotes,15.0,21.98,41,342,90,62,Baja rotación,SIMULADO
+SIM024,Sardina Calmex en Tomate 155 g,Abarrotes,18.0,21.69,220,83,90,48,Exceso de inventario,SIMULADO
+SIM025,Salsa Valentina 370 ml,Abarrotes,16.0,22.07,381,1057,90,67,Baja rotación,SIMULADO
+SIM026,Mayonesa Helmans 390 g,Abarrotes,34.0,45.77,17,28,90,88,Baja rotación,SIMULADO
+SIM027,Pasta Barilla Spaghetti 500 g,Abarrotes,23.0,29.4,13,88,90,62,Baja rotación,SIMULADO
+SIM028,Sopa Maruchan Camarón 64 g,Abarrotes,10.0,14.38,216,368,90,44,Baja rotación,SIMULADO
+SIM029,Mole Doña María 160 g,Abarrotes,29.0,39.85,1,6,90,29,Baja rotación,SIMULADO
+SIM030,Café Nescafé Clásico 100 g,Abarrotes,78.0,102.96,189,81,90,53,Exceso de inventario,SIMULADO
+SIM031,Leche Lala Entera 1 L,Lácteos,21.0,26.96,41,92,90,82,Baja rotación,SIMULADO
+SIM032,Leche Alpura Deslactosada 1 L,Lácteos,23.0,35.65,27,353,90,49,Baja rotación,SIMULADO
+SIM033,Yoghurt Danone Fresa 125 g,Lácteos,9.5,14.43,2,7,90,49,Baja rotación,SIMULADO
+SIM034,Queso Oaxaca Lala 400 g,Lácteos,62.0,89.45,152,73,90,10,Exceso de inventario,SIMULADO
+SIM035,Crema Lala para Batir 250 ml,Lácteos,25.0,33.45,31,339,90,39,Baja rotación,SIMULADO
+SIM036,Mantequilla Gloria 90 g,Lácteos,19.0,30.0,29,106,90,64,Baja rotación,SIMULADO
+SIM037,Huevo Blanco San Juan 18 pzas,Lácteos,58.0,82.67,7,31,90,73,Baja rotación,SIMULADO
+SIM038,Pan Bimbo Blanco Grande,Panadería,42.0,57.67,241,363,90,82,Baja rotación,SIMULADO
+SIM039,Pan Bimbo Integral,Panadería,46.0,71.77,17,27,90,58,Baja rotación,SIMULADO
+SIM040,Tortillas de Harina Mission 10 pzas,Panadería,35.0,46.47,152,377,90,83,Baja rotación,SIMULADO
+SIM041,Bolillo Pieza,Panadería,3.5,5.17,1,2,90,5,Baja rotación,SIMULADO
+SIM042,Marinela Gansito 2 pzas,Panadería,14.0,18.56,14,34,90,52,Exceso de inventario,SIMULADO
+SIM043,Pastel Bimbo Chocolate,Panadería,39.0,50.88,1,5,90,23,Baja rotación,SIMULADO
+SIM044,Detergente Ariel Polvo 1 kg,Limpieza,58.0,85.86,134,0,90,90,Exceso de inventario,SIMULADO
+SIM045,Cloro Cloralex 1 L,Limpieza,17.0,21.95,26,76,90,85,Baja rotación,SIMULADO
+SIM046,Suavitel Fresh 850 ml,Limpieza,39.0,54.49,12,26,90,60,Baja rotación,SIMULADO
+SIM047,Jabón Zote Rosa 400 g,Limpieza,13.0,18.62,234,80,90,39,Exceso de inventario,SIMULADO
+SIM048,Fabuloso Lavanda 1 L,Limpieza,27.0,34.44,82,371,90,85,Baja rotación,SIMULADO
+SIM049,Pinol Original 828 ml,Limpieza,36.0,53.73,203,386,90,35,Baja rotación,SIMULADO
+SIM050,Estropajo Scotch-Brite Pieza,Limpieza,12.0,17.03,39,98,90,88,Baja rotación,SIMULADO
+SIM051,Papel Higiénico Kleenex 4 rollos,Higiene,36.0,52.15,285,25,90,26,Exceso de inventario,SIMULADO
+SIM052,Papel Higiénico Regio 12 rollos,Higiene,84.0,113.3,5,26,90,25,Normal,SIMULADO
+SIM053,Servilletas Kleenex 100 pzas,Higiene,22.0,30.1,1,2,90,57,Baja rotación,SIMULADO
+SIM054,Shampoo Head & Shoulders 400 ml,Higiene,69.0,96.46,107,360,90,84,Baja rotación,SIMULADO
+SIM055,Shampoo Sedal Keratina 340 ml,Higiene,49.0,68.01,27,374,90,7,Normal,SIMULADO
+SIM056,Pasta Dental Colgate 100 ml,Higiene,32.0,47.05,8,80,90,65,Baja rotación,SIMULADO
+SIM057,Desodorante Rexona Clinical 50 ml,Higiene,41.0,58.67,41,92,90,37,Baja rotación,SIMULADO
+SIM058,Rastrillos Bic 3 pzas,Higiene,27.0,36.9,269,1076,90,78,Baja rotación,SIMULADO
+SIM059,Pañales Huggies Etapa 4 (20 pzas),Higiene,189.0,226.94,178,340,90,70,Baja rotación,SIMULADO
+SIM060,Toallas Sanitarias Saba Ultra 10 pzas,Higiene,34.0,51.6,36,361,90,15,Exceso de inventario,SIMULADO
+SIM061,Pollo Entero Bachoco 1 kg,Carnes,74.0,104.17,431,383,90,60,Exceso de inventario,SIMULADO
+SIM062,Salchicha Fud Viena 250 g,Carnes,29.0,38.59,5,25,90,87,Baja rotación,SIMULADO
+SIM063,Jamón Fud Virginia 200 g,Carnes,36.0,50.4,364,331,90,13,Exceso de inventario,SIMULADO
+SIM064,Chorizo Coronado Rojo 250 g,Carnes,48.0,59.39,219,382,90,67,Baja rotación,SIMULADO
+SIM065,Plátano Tabasco kg,Frutas y verduras,19.0,29.68,388,354,90,9,Exceso de inventario,SIMULADO
+SIM066,Manzana Roja kg,Frutas y verduras,38.0,60.64,8,27,90,14,Normal,SIMULADO
+SIM067,Jitomate Saladette kg,Frutas y verduras,26.0,31.81,26,350,90,23,Normal,SIMULADO
+SIM068,Cebolla Blanca kg,Frutas y verduras,21.0,28.21,325,104,90,48,Exceso de inventario,SIMULADO
+SIM069,Aguacate Hass Pieza,Frutas y verduras,16.0,23.87,36,85,90,70,Baja rotación,SIMULADO
+SIM070,Limón Pieza,Frutas y verduras,1.5,1.99,0,10,90,10,Normal,SIMULADO
+SIM071,Pilas Duracell AA 4 pzas,Varios,54.0,77.05,36,94,90,3,Normal,SIMULADO
+SIM072,Velas Aromáticas Pieza,Varios,15.0,20.5,64,1083,90,65,Exceso de inventario,SIMULADO
+SIM073,Bolsas de Plástico Asa Pieza,Varios,0.8,1.21,9,22,90,29,Normal,SIMULADO

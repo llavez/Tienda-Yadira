@@ -1,0 +1,36 @@
+{
+  "accuracy_clases": 0.7272727272727273,
+  "precision_candidatos_descuento": 1.0,
+  "recall_candidatos_descuento": 0.8888888888888888,
+  "matriz_confusion": {
+    "labels": [
+      "Normal",
+      "Baja rotación",
+      "Exceso de inventario"
+    ],
+    "valores": [
+      [
+        2,
+        0,
+        0
+      ],
+      [
+        1,
+        5,
+        0
+      ],
+      [
+        0,
+        2,
+        1
+      ]
+    ]
+  },
+  "n_evaluados": 11,
+  "f1_macro_validacion": 1.0,
+  "particion": {
+    "train": 51,
+    "validacion": 11,
+    "prueba": 11
+  }
+}
